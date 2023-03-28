@@ -9,3 +9,4 @@ Enjoy.
 | --------------------------------------------- | ----------------------------------------------------------- |
 | [Improved Bed Fan Mounts](https://github.com/DasBurninator/voron_mods/tree/main/improved_bedfans) | Bed fan mounts that have more than 5 minutes spent on them |
 | [Pinned XY Joints (No Wiring Channel)](https://github.com/DasBurninator/voron_mods/tree/main/pinned_xy_joints_no_wiring_channel) | Modified XY joints from HartK's mod. For running without the endstop pod |
+| [Sturdy Handles with M5x16](https://github.com/DasBurninator/voron_mods/tree/main/sturdy_handles_common_hardware) | Sturdy Handles modified to use M5x16 hardware and follow Voron Design standards better |
