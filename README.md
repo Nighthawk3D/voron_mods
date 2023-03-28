@@ -7,4 +7,4 @@ Enjoy.
 
 | Mod                                         | Description                                               |
 | --------------------------------------------- | ----------------------------------------------------------- |
-| [Improved Bed Fan Mounts](improved_bed_fans/) | Bed fan mounts that have more than 5 minutes spent on them |
+| [Improved Bed Fan Mounts](/tree/main/improved_bedfans/) | Bed fan mounts that have more than 5 minutes spent on them |
