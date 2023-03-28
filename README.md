@@ -7,4 +7,4 @@ Enjoy.
 
 | Mod                                         | Description                                               |
 | --------------------------------------------- | ----------------------------------------------------------- |
-| [Improved Bed Fan Mounts](/tree/main/improved_bedfans/) | Bed fan mounts that have more than 5 minutes spent on them |
+| [Improved Bed Fan Mounts](https://github.com/DasBurninator/voron_mods/tree/main/improved_bedfans) | Bed fan mounts that have more than 5 minutes spent on them |
