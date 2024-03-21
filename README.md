@@ -1,4 +1,4 @@
-# Dasburninator's Voron Mods
+# Voron Mods
 
 Figured I should start shoving all of my mods into a git repo so I stop losing them on my computer.
 
